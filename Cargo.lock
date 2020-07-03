@@ -7001,6 +7001,7 @@ dependencies = [
  "hex",
  "intervalier",
  "log",
+ "node-runtime",
  "parity-scale-codec",
  "parity-util-mem",
  "parking_lot 0.10.2",
